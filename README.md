@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/name-badge.svg" alt="MD Shoaib Taimur"/>
+  <img src="assets/name-badge.svg" alt="MD Shoaaib Taimur"/>
 </p>
 
 <p align="center">
@@ -11,10 +11,10 @@
   <img src="https://img.shields.io/badge/🌐%20Portfolio-8b5cf6?style=for-the-badge"/>
 </a>
   <a href="https://www.linkedin.com/in/shoaaib-taimur" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white"/>
   </a>
   <a href="https://www.facebook.com/share/16gMMQzpVh/" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&amp;logo=facebook&amp;logoColor=white"/>
   </a>
 </p>
 
