@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ShoaibTaimur&label=Profile%20views&color=8b5cf6&style=flat-square"/>
+  <img src="https://komarev.com/ghpvc/?username=ShoaaibTaimur&label=Profile%20views&color=8b5cf6&style=flat-square"/>
 </p>
 
 <p align="center">
@@ -77,7 +77,7 @@
 ##  Stats
 
 <p align="center">
-  <img src="https://stats.taimur.dev/api/card?username=ShoaibTaimur&theme=dark&cache_seconds=300"/>
+  <img src="https://stats.taimur.dev/api/card?username=ShoaaibTaimur&theme=dark&cache_seconds=300"/>
 </p>
 
 <p align="center">
