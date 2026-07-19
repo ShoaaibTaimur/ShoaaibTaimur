@@ -5,7 +5,7 @@ import sys
 import urllib.request
 
 
-USERNAME = "ShoaibTaimur"
+USERNAME = "ShoaaibTaimur"
 OUT_PATH = os.path.join("assets", "stats", "profile-stats.svg")
 
 
