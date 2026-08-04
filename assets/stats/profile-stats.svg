@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="640" height="356" viewBox="0 0 640 356">
-<rect width="640" height="356" fill="#0f172a"/>
-<rect x="16" y="16" width="608" height="324" rx="14" fill="#111827"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="338" viewBox="0 0 640 338">
+<rect width="640" height="338" fill="#0f172a"/>
+<rect x="16" y="16" width="608" height="306" rx="14" fill="#111827"/>
 <text x="40" y="60" fill="#e5e7eb" font-size="20" font-family="Segoe UI, Ubuntu, Arial, sans-serif">GitHub Snapshot</text>
 <text x="40" y="86" fill="#94a3b8" font-size="12" font-family="Segoe UI, Ubuntu, Arial, sans-serif">@ShoaaibTaimur</text>
 <line x1="40" y1="100" x2="600" y2="100" stroke="#38bdf8" stroke-width="2" opacity="0.5"/>
@@ -12,13 +12,12 @@
 <text x="40" y="188" fill="#94a3b8" font-size="12" font-family="Segoe UI, Ubuntu, Arial, sans-serif">Updated by GitHub Actions</text>
 <text x="40" y="212" fill="#e5e7eb" font-size="16" font-family="Segoe UI, Ubuntu, Arial, sans-serif">Language Usage</text>
 <line x1="40" y1="220" x2="600" y2="220" stroke="#38bdf8" stroke-width="2" opacity="0.35"/>
-<text x="40" y="228" fill="#e5e7eb" font-size="13" font-family="Segoe UI, Ubuntu, Arial, sans-serif">TypeScript: 2,109,312</text>
+<text x="40" y="228" fill="#e5e7eb" font-size="13" font-family="Segoe UI, Ubuntu, Arial, sans-serif">TypeScript: 2,057,471</text>
 <text x="40" y="246" fill="#e5e7eb" font-size="13" font-family="Segoe UI, Ubuntu, Arial, sans-serif">Java: 284,398</text>
-<text x="40" y="264" fill="#e5e7eb" font-size="13" font-family="Segoe UI, Ubuntu, Arial, sans-serif">JavaScript: 273,090</text>
-<text x="40" y="282" fill="#e5e7eb" font-size="13" font-family="Segoe UI, Ubuntu, Arial, sans-serif">HTML: 247,801</text>
-<text x="40" y="300" fill="#e5e7eb" font-size="13" font-family="Segoe UI, Ubuntu, Arial, sans-serif">CSS: 97,446</text>
-<text x="40" y="318" fill="#e5e7eb" font-size="13" font-family="Segoe UI, Ubuntu, Arial, sans-serif">RouterOS Script: 88,356</text>
-<text x="332" y="228" fill="#e5e7eb" font-size="13" font-family="Segoe UI, Ubuntu, Arial, sans-serif">Shell: 17,340</text>
+<text x="40" y="264" fill="#e5e7eb" font-size="13" font-family="Segoe UI, Ubuntu, Arial, sans-serif">JavaScript: 272,820</text>
+<text x="40" y="282" fill="#e5e7eb" font-size="13" font-family="Segoe UI, Ubuntu, Arial, sans-serif">CSS: 97,446</text>
+<text x="40" y="300" fill="#e5e7eb" font-size="13" font-family="Segoe UI, Ubuntu, Arial, sans-serif">Shell: 17,340</text>
+<text x="332" y="228" fill="#e5e7eb" font-size="13" font-family="Segoe UI, Ubuntu, Arial, sans-serif">HTML: 10,142</text>
 <text x="332" y="246" fill="#e5e7eb" font-size="13" font-family="Segoe UI, Ubuntu, Arial, sans-serif">PowerShell: 7,818</text>
 <text x="332" y="264" fill="#e5e7eb" font-size="13" font-family="Segoe UI, Ubuntu, Arial, sans-serif">PLSQL: 4,022</text>
 <text x="332" y="282" fill="#e5e7eb" font-size="13" font-family="Segoe UI, Ubuntu, Arial, sans-serif">Python: 2,825</text>
