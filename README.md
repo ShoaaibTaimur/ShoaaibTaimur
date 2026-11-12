@@ -22,7 +22,7 @@
 
 ##  About Me
 
-*  CSE Student (3rd Semester)
+*  CSE Student (4th Semester)
 *  Focused on **Data Science & Analytics**
 *  Learning **C, Core CS & Problem Solving**
 *  Exploring **MERN Stack Development**
